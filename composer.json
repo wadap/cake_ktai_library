@@ -3,5 +3,8 @@
   "type": "cakephp-plugin",
   "extra": {
     "installer-name": "CakeKtaiLibrary"
+  },
+  "require": {
+    "composer/installers": "*"
   }
 }
