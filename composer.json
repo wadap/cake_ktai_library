@@ -1,0 +1,7 @@
+{
+  "name" : "ecw/cake_ktai_library",
+  "type": "cakephp-plugin",
+  "extra": {
+    "installer-name": "CakeKtaiLibrary"
+  }
+}
